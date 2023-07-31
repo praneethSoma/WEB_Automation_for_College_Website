@@ -1,0 +1,187 @@
+1615738328713	geckodriver	INFO	Listening on 127.0.0.1:62523
+1615738331748	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\suraj\\AppData\\Local\\Temp\\rust_mozprofileuT1qXY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615738334139	Marionette	INFO	Listening on port 62531
+1615738334378	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy.js, line 32853: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy.js, line 33531: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy.js, line 41151: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 5665: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 8776: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 8966: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 9174: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 9343: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 9393: unreachable code after return statement
+1615738503888	Marionette	INFO	Stopped listening on port 62531
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615738632504	geckodriver	INFO	Listening on 127.0.0.1:62593
+1615738635549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\suraj\\AppData\\Local\\Temp\\rust_mozprofile1PfkFW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615738637933	Marionette	INFO	Listening on port 62602
+1615738638173	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy.js, line 32853: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy.js, line 33531: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy.js, line 41151: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 5665: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 8776: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 8966: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 9174: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 9343: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 9393: unreachable code after return statement
+1615738746678	Marionette	INFO	Stopped listening on port 62602
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615738927206	geckodriver	INFO	Listening on 127.0.0.1:62720
+1615738930249	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\suraj\\AppData\\Local\\Temp\\rust_mozprofilecNY6LZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615738932451	Marionette	INFO	Listening on port 62728
+1615738932869	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy.js, line 32853: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy.js, line 33531: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy.js, line 41151: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 5665: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 8776: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 8966: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 9174: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 9343: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 9393: unreachable code after return statement
+1615738997612	Marionette	INFO	Stopped listening on port 62728
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615739119753	geckodriver	INFO	Listening on 127.0.0.1:62847
+1615739122802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\suraj\\AppData\\Local\\Temp\\rust_mozprofiler18ktV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615739125095	Marionette	INFO	Listening on port 62855
+1615739125430	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy.js, line 32853: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy.js, line 33531: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy.js, line 41151: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 5665: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 8776: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 8966: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 9174: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 9343: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 9393: unreachable code after return statement
+1615739162223	Marionette	INFO	Stopped listening on port 62855
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615739685609	geckodriver	INFO	Listening on 127.0.0.1:63013
+1615739688709	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\suraj\\AppData\\Local\\Temp\\rust_mozprofile0ezu8N"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615739690866	Marionette	INFO	Listening on port 63021
+1615739691362	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615739702610	Marionette	INFO	Stopped listening on port 63021
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615739747655	geckodriver	INFO	Listening on 127.0.0.1:63068
+1615739750758	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\suraj\\AppData\\Local\\Temp\\rust_mozprofileSHvnnu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615739752890	Marionette	INFO	Listening on port 63076
+1615739752917	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy.js, line 32853: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy.js, line 33531: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy.js, line 41151: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 5665: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 8776: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 8966: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 9174: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 9343: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 9393: unreachable code after return statement
+1615739783632	Marionette	INFO	Stopped listening on port 63076
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615795868252	geckodriver	INFO	Listening on 127.0.0.1:54226
+1615795871371	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\suraj\\AppData\\Local\\Temp\\rust_mozprofileCL7Jn7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615795875302	Marionette	INFO	Listening on port 54234
+1615795875603	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy.js, line 32853: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy.js, line 33531: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy.js, line 41151: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 5665: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 8776: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 8966: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 9174: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 9343: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 9393: unreachable code after return statement
+1615795931174	Marionette	INFO	Stopped listening on port 54234
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615796865400	geckodriver	INFO	Listening on 127.0.0.1:54394
+1615796868474	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\suraj\\AppData\\Local\\Temp\\rust_mozprofileEuZ8DX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615796872270	Marionette	INFO	Listening on port 54402
+1615796872685	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy.js, line 32853: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy.js, line 33531: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy.js, line 41151: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 5665: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 8776: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 8966: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 9174: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 9343: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 9393: unreachable code after return statement
+1615796922609	Marionette	INFO	Stopped listening on port 54402
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615796981678	geckodriver	INFO	Listening on 127.0.0.1:54467
+1615796984749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\suraj\\AppData\\Local\\Temp\\rust_mozprofile11nPr3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615796988421	Marionette	INFO	Listening on port 54475
+1615796988923	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy.js, line 32853: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy.js, line 33531: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy.js, line 41151: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 5665: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 8776: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 8966: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 9174: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 9343: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 9393: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:void(0);'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:439:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2106:35
+addAllSources@resource://devtools/server/actors/thread.js:1464:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:204:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:68:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:29:20
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:411:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:353:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:void(0);'
+1615797273665	Marionette	INFO	Stopped listening on port 54475
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616148490201	geckodriver	INFO	Listening on 127.0.0.1:59674
+1616148493269	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\suraj\\AppData\\Local\\Temp\\rust_mozprofile3N8xbx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616148498161	Marionette	INFO	Listening on port 59682
+1616148498595	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy.js, line 32853: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy.js, line 33531: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy.js, line 41152: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 5665: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 8776: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 8966: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 9174: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 9343: unreachable code after return statement
+JavaScript warning: https://www.pesuacademy.com/Academy/js/academy2.js, line 9393: unreachable code after return statement
+1616148764330	Marionette	INFO	Stopped listening on port 59682
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
